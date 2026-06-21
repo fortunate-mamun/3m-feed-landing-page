@@ -339,7 +339,7 @@ font-weight: bolder;
 
 
   .hero-section {
-    position:fixed;
+    position: relative;
     padding: 15px;
   }
 
